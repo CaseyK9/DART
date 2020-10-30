@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Debug_win_x86"/>
+    <Units Count="41">
+      <Unit0>
+        <Filename Value="SCS_Unlocker.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="12" Y="15"/>
+        <UsageCount Value="51"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="MainForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fMainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <UsageCount Value="51"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\PrcsSettingsForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fPrcsSettingsForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="107"/>
+        <CursorPos X="60" Y="112"/>
+        <UsageCount Value="51"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\ErrorForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fErrorForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="78" Y="15"/>
+        <UsageCount Value="51"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\Repairer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1458"/>
+        <CursorPos X="62" Y="1470"/>
+        <UsageCount Value="51"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\FilesManager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="191"/>
+        <CursorPos X="14" Y="203"/>
+        <UsageCount Value="51"/>
+        <Bookmarks Count="1">
+          <Item0 X="8" Y="267" ID="1"/>
+        </Bookmarks>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\Libs\lazarus.zlib.128\zlib_dll.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="129"/>
+        <CursorPos X="6" Y="91"/>
+        <UsageCount Value="41"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\MainForm.pas"/>
+        <ComponentName Value="fMainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="325"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3644"/>
+        <CursorPos Y="3657"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\Lazarus\lcl\include\customlistview.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1154"/>
+        <CursorPos Y="1173"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="D:\Lazarus\components\lazutils\fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="237"/>
+        <CursorPos X="10" Y="250"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\Lazarus\components\lazutils\fileutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="76"/>
+        <CursorPos X="3" Y="78"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\Lazarus\components\lazutils\lazfileutils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="69"/>
+        <CursorPos X="22" Y="82"/>
+        <UsageCount Value="9"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\Lazarus\components\lazutils\winlazfileutils.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="21" Y="9"/>
+        <UsageCount Value="9"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\Lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1252"/>
+        <CursorPos Y="1265"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\packages\paszlib\src\paszlib.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="21"/>
+        <UsageCount Value="9"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\packages\paszlib\src\zbase.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="302"/>
+        <CursorPos X="16" Y="321"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="996"/>
+        <CursorPos X="10" Y="1009"/>
+        <UsageCount Value="9"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1012"/>
+        <CursorPos X="18" Y="1025"/>
+        <UsageCount Value="9"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\i386\i386.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1187"/>
+        <CursorPos X="10" Y="1352"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\Lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="902"/>
+        <CursorPos Y="915"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\ZLibDLL.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\packages\zlib\src\zlib.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1233"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\test.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="7" Y="13"/>
+        <UsageCount Value="19"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\inc\ctypes.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="15" Y="71"/>
+        <UsageCount Value="9"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\win\wininc\func.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="10" Y="61"/>
+        <UsageCount Value="9"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\inc\cmem.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="test.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12" Y="5"/>
+        <UsageCount Value="22"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="D:\Lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2105"/>
+        <CursorPos Y="2117"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\Libs\lazarus.zlib.128\zlib_lib.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="9" Y="18"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\win\wininc\defines.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="6" Y="449"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32proc.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="811"/>
+        <CursorPos Y="827"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1968"/>
+        <CursorPos Y="1981"/>
+        <UsageCount Value="11"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32int.pp"/>
+        <UnitName Value="Win32Int"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="218"/>
+        <CursorPos X="10" Y="233"/>
+        <UsageCount Value="10"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32wsforms.pp"/>
+        <UnitName Value="Win32WSForms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="384"/>
+        <CursorPos Y="396"/>
+        <UsageCount Value="10"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="D:\Lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4957"/>
+        <CursorPos Y="4975"/>
+        <UsageCount Value="10"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\objpas\sysutils\diskh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="D:\Lazarus\fpc\2.6.4\source\rtl\objpas\sysutils\sysutils.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="603"/>
+        <CursorPos X="3" Y="635"/>
+        <UsageCount Value="10"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="..\..\PrcsSettingsForm.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="2"/>
+        <UsageCount Value="10"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="..\..\MainForm.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32wsstdctrls.pp"/>
+        <UnitName Value="Win32WSStdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="630"/>
+        <CursorPos X="18" Y="615"/>
+        <UsageCount Value="10"/>
+      </Unit40>
+    </Units>
+    <CustomDefines Count="6">
+      <Define0 Value="FPC"/>
+      <Define1 Value="Windows"/>
+      <Define2 Value="x86"/>
+      <Define3 Value="x64"/>
+      <Define4 Value="Debug"/>
+      <Define5 Value="Release"/>
+    </CustomDefines>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="475" Column="47" TopLine="242"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="249" TopLine="242"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="250" TopLine="242"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="251" TopLine="242"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="252" TopLine="242"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="89" Column="40" TopLine="75"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="100" Column="6" TopLine="87"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="87" Column="42" TopLine="82"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="122" Column="20" TopLine="101"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="280" Column="14" TopLine="271"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="544" Column="22" TopLine="533"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="122" Column="20" TopLine="110"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="280" Column="14" TopLine="268"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="544" Column="14" TopLine="523"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\MainForm.pas"/>
+        <Caret Line="122" Column="20" TopLine="110"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\test.pas"/>
+        <Line Value="17"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="FullFileName"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
